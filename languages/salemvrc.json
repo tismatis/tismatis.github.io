@@ -1,12 +1,10 @@
 {
-  "english":
-  {
-    "hostboard.claimbutton.claimed": "Unclaim Host",
-    "hostboard.claimbutton.unclaimed": "Claim Host",
-  },
-  "french":
-  {
-    "hostboard.claimbutton.claimed": "Céder le Host",
-    "hostboard.claimbutton.unclaimed": "Réclamer le Host",
-  },
+   "english":{
+      "hostboard.claimbutton.claimed":"Unclaim Host",
+      "hostboard.claimbutton.unclaimed":"Claim Host"
+   },
+   "french":{
+      "hostboard.claimbutton.claimed":"Céder le Host",
+      "hostboard.claimbutton.unclaimed":"Réclamer le Host"
+   }
 }
