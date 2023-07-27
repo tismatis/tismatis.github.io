@@ -368,7 +368,7 @@
       "hostboard.role.tools.revealplayers.title": "Révéler aux Joueurs les Roles",
       "hostboard.role.tools.revealplayers.info": "Secrètement révéler les roles aux maisons.",
       "hostboard.role.tools.revealall.title": "Réléver tout les Roles",
-      "hostboard.role.tools.revealall.info": "<color=#FF0000><b>Dangereux</b></color>\r\nRévéler publiques aux joueurs les roles.",
+      "hostboard.role.tools.revealall.info": "<color=#FF0000><b>Dangereux</b></color>\r\nRévéler publiquement aux joueurs les roles.",
       "hostboard.role.tools.shufflerolelist.title": "Mélanger la Rolelist",
       "hostboard.role.tools.shufflerolelist.info": "<color=#FF0000><b>Dangereux</b></color>\r\nMélange les maisons sans tombes.",
       "hostboard.role.tools.showtohost.title": "Révéler les roles aux Hosts",
